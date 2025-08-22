@@ -53,11 +53,11 @@ Mi stack principal se centra en el ecosistema JavaScript.
 
 ### 🚀 Proyectos Destacados
 
-* **Sistema de Gestión de Practicantes (Gobernación de Sucre):** Desarrollé un sistema backend completo para la gestión integral de practicantes, organizando la información por dependencias y universidades. [span_1](start_span)También implementé un sistema de gestión documental y una arquitectura de base de datos eficiente en PostgreSQL[span_1](end_span). [span_2](start_span)Las medidas de seguridad se robustecieron con JWT y Express Validator[span_2](end_span).
+* **Sistema de Gestión de Practicantes (Gobernación de Sucre):** Desarrollé un sistema backend completo para la gestión integral de practicantes, organizando la información por dependencias y universidades. También implementé un sistema de gestión documental y una arquitectura de base de datos eficiente en PostgreSQL. Las medidas de seguridad se robustecieron con JWT y Express Validator.
 
-* **Sistema de Reservas de Salas (CECAR):** Creé un sistema integral para la gestión de reservas de salas psicológicas para estudiantes universitarios, facilitando la solicitud y administración de espacios[span_3](end_span). [span_4](stEl proyecto incluyó un sistema de autenticación seguro con JWT para diferentes roles de usuario y una API RESTful robusta[span_4](end_span)[span_5](end_span).
+* **Sistema de Reservas de Salas (CECAR):** Creé un sistema integral para la gestión de reservas de salas psicológicas para estudiantes universitarios, facilitando la solicitud y administración de espacios. (stEl proyecto incluyó un sistema de autenticación seguro con JWT para diferentes roles de usuario y una API RESTful robusta.
 
-* **[span_6](start_span)Sistema de Componentes Unificado (Academia Enova):** Lideré la implementación de un sistema de componentes y herramientas para estandarizar procesos técnicos y acelerar la entrega de productos[span_6](end_span). [span_7](start_span)Implementé prácticas de CI/CD que mejoraron la eficiencia, reduciendo errores y acelerando los despliegues en más de un 70%[span_7](end_span).
+* **Sistema de Componentes Unificado (Academia Enova):** Lideré la implementación de un sistema de componentes y herramientas para estandarizar procesos técnicos y acelerar la entrega de productos. Implementé prácticas de CI/CD que mejoraron la eficiencia, reduciendo errores y acelerando los despliegues en más de un 70%.
 
 ---
 
