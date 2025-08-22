@@ -1,4 +1,3 @@
-Lo he dejado así:
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmlvMmRkczFjaGdld2hjbWJ6ZTVoYXJ6bGRkZndzbjU4NzVnbW56YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0O9zFw8B9gN1mCg0/giphy.gif" width="100px" alt="GIF de bienvenida">
   <h1>Alejandro Luis Berrio Orozco</h1>
