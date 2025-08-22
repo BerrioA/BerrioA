@@ -9,7 +9,7 @@
 
 ### 🌟 Sobre Mí
 
-Soy un Ingeniero de Sistemas con más de un año de experiencia en el desarrollo fullstack. Me apasiona la creación de soluciones robustas y escalables, con un enfoque en la eficiencia operacional. [span_0](start_span)He liderado el desarrollo de sistemas que han mejorado la gestión de nóminas en un 40% y optimizado el rendimiento de aplicaciones en un 25%[span_0](end_span).
+Soy un Ingeniero de Sistemas con más de un año de experiencia en el desarrollo fullstack. Me apasiona la creación de soluciones robustas y escalables, con un enfoque en la eficiencia operacional. He liderado el desarrollo de sistemas que han mejorado la gestión de nóminas en un 40% y optimizado el rendimiento de aplicaciones en un 25%.
 
 Mis fortalezas incluyen la implementación de prácticas de integración y despliegue continuo (CI/CD) y la optimización del rendimiento web. Mi objetivo es aplicar mi experiencia técnica para construir productos de software que resuelvan problemas reales y generen un impacto positivo.
 
