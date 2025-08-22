@@ -66,8 +66,8 @@ Mi stack principal se centra en el ecosistema JavaScript.
 Estos widgets muestran mi dedicación y actividad en GitHub, destacando mi cantidad de `commits` y mi racha.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TuUsername&show_icons=true&theme=vue-dark" alt="Estadísticas de GitHub">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuUsername&theme=vue-dark" alt="Racha de Commits en GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=BerrioA&show_icons=true&theme=vue-dark" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BerrioA&theme=vue-dark" alt="Racha de Commits en GitHub">
 </div>
 
 *Recuerda reemplazar `TuUsername` con tu nombre de usuario de GitHub.*
